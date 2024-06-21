@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Alice",
+    "Age": 20,
+    "GPA": 3.8,
+    "Major": "Computer Science",
+    "University": "University A",
+    "ID": 1
+  },
+  {
+    "Name": "Bob",
+    "Age": 22,
+    "GPA": 3.6,
+    "Major": "Mathematics",
+    "University": "University B",
+    "ID": 2
+  },
+  {
+    "Name": "Charlie",
+    "Age": 21,
+    "GPA": 3.9,
+    "Major": "Physics",
+    "University": "University C",
+    "ID": 3
+  },
+  {
+    "Name": "David",
+    "Age": 23,
+    "GPA": 3.5,
+    "Major": "Chemistry",
+    "University": "University D",
+    "ID": 4
+  },
+  {
+    "Name": "Eve",
+    "Age": 20,
+    "GPA": 3.7,
+    "Major": "Biology",
+    "University": "University E",
+    "ID": 5
+  }
+]

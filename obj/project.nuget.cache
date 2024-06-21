@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8jqvYWRV1zLYSDkj7nfHAXOcHnt54nbHFlHCiNFZvVBvUBsOySLD7uRlHM5u3WgFZk2P+oF4/hsI1FTYqdvBzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaise\\Desktop\\DataStructureAssignment\\DataStructureAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaise\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
+    "C:\\Users\\kaise\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512",
+    "C:\\Users\\kaise\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\kaise\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
